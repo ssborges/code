@@ -1,0 +1,54 @@
+[
+    {
+    "name":"root.Jobs.Achiever",
+    "imports":
+    [
+      "root.Achiever.Montrose_High_School",
+      "root.Achiever.Technology_in_Education",
+      "root.Achiever.Fandango",
+      "root.Achiever.ICPA",
+      "root.Achiever.Showtime",
+      "root.Achiever._VVF",
+      "root.Achiever.Team_Tactical"
+    ]
+    },
+    {
+    "name":"root.Jobs.Explorer",
+    "imports":
+    [
+      "root.Explorer.ADP",
+      "root.Explorer.Centene",
+      "root.Explorer.University_of_Kentucky",
+      "root.Explorer.Hertz",
+      "root.Explorer.Six_Flags",
+      "root.Explorer.Kaiser_Permanente",
+      "root.Explorer.Ball_Aerospace"
+    ]
+    },
+     {
+    "name":"root.Jobs.Killer",
+    "imports":
+    [
+      "Killer.Six_Flags",
+      "Killer.Kaiser_Permanente",
+      "Killer.Ball_Aerospace"
+    ]
+    },
+    {"name":"root.Achiever.Montrose_High_School","imports":[]},
+    {"name":"root.Achiever.Technology_in_Education","imports":[]},
+    {"name":"root.Achiever.Fandango","imports":[]},
+    {"name":"root.Achiever.ICPA","imports":[]},
+    {"name":"root.Achiever.Showtime","imports":[]},
+    {"name":"root.Achiever._VVF","imports":[]},
+    {"name":"root.Achiever.Team_Tactical","imports":[]},
+    {"name":"root.Explorer.ADP","imports":[]},
+    {"name":"root.Explorer.Centene","imports":[]},
+    {"name":"root.Explorer.University_of_Kentucky", "imports":[]},
+    {"name":"root.Explorer.Hertz","imports":[]},
+    {"name":"root.Explorer.Six_Flags", "imports":[]},
+    {"name":"root.Explorer.Kaiser_Permanente", "imports":[]},
+    {"name":"root.Explorer.Ball_Aerospace", "imports":[]},
+    {"name":"root.Killer.Six_Flags", "imports":[]},
+    {"name":"root.Killer.Kaiser_Permanente", "imports":[]},
+    {"name":"root.Killer.Ball_Aerospace", "imports":[]}
+]
